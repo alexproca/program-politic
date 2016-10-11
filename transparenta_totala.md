@@ -39,3 +39,8 @@ Vom susține un efort intens de modernizare a fluxurilor informatice și a siste
 Având în vedere faptul că strategia digitală a ministerelor suferă din cauza lipsei de coerență, propunem adoptarea unei strategii comprehensive de dezvoltare și asigurare a interoperabilităţii sistemelor informatice publice  şi implementarea cât mai rapidă a conceptului de CTI la toate nivelele - guvernamental, ministerial, local - prin organizarea unei structuri unice și independente la nivel central care să organizeze proceduri de achiziție publică de soluții IT transparente și să evite pe cât posibil ca anumiți furnizori de soluții informatice să țină “captive” autoritățile publice beneficiare.
 
 Odată pus în funcțiune acest plan, se vor dezvolta cît mai multe servicii electronice ca să reducă pe cât posibil interacțiunea cetățeanului cu funcționarul de la ghișeu. Aceleași propuneri le avem pentru administrațiile publice locale care trebuie încurajate să se grupeze pentru a putea avea servicii IT performante și a organiza proceduri de achiziție publică pentru servicii standardizate și performante în domeniul informatic.
+
+### Documente electronice
+Documentele electronice pot reduce costurile de procesare a informațiilor conținute, costurile cu transmiterea prin poșta și timpul de așteptare la cozi pentru a le depune. Legislatia actuala permite creearea și semnarea documentelor electronice numai în anumite condiții, care sunt incomod de indeplinit de către cetateanul obișnuit (si implică anumite costuri). Susținem înlesnirea procedurilor de creare și semnare a documentelor electronice prin crearea unui cadru legislativ care sa permita utlizarea de solutii deschise ( [GPG][1] ) pentru semnarea oricarui document electronic.
+
+[1]: https://www.gnupg.org/
